@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "353836952281",
+    "firebase_url": "https://discounttracker-72e3d.firebaseio.com",
+    "project_id": "discounttracker-72e3d",
+    "storage_bucket": "discounttracker-72e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353836952281:android:0080e11a74ad6d18",
+        "android_client_info": {
+          "package_name": "com.discounttrack.discounttrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353836952281-qvgm6a2c50gvt2d1tshtkqgvlojnvvqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.discounttrack.discounttrack",
+            "certificate_hash": "b15e0e59445ff5c50ea1a8346933e4a864105b60"
+          }
+        },
+        {
+          "client_id": "353836952281-53voueq26hbpam5shqphp1g23liv1rei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRMhZ3wDn6QcrdIRPoNN0snQ0hww8llM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353836952281-53voueq26hbpam5shqphp1g23liv1rei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
